@@ -3,8 +3,8 @@ pub mod structs;
 pub mod utils;
 
 use api::account::account_actions::account_info;
-// use api::comment_list::functions::comment_list;
-use api::videos_list::functions::get_video_list;
+use api::comment_list::functions::comment_list;
+// use api::videos_list::functions::get_video_list;
 
 // use clap::Parser;
 use dotenv::dotenv;
@@ -26,7 +26,7 @@ async fn main() {
     dotenv().ok();
     let _ = account_info().await;
     // perform likes
-    let _ = get_video_list().await;
+    // let _ = get_video_list().await;
     // perform comments
-    // let _ = comment_list().await;
+    let _ = comment_list().await;
 }
