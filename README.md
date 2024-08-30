@@ -34,3 +34,8 @@ or you could just download an executable from the releases section.
 ## Disclaimer
 
 This script hasn't been tested for long so no one is responsible for you losing your account. Use with caution
+
+
+## Screenshots
+
+![Screenshot](https://raw.githubusercontent.com/rotleaf/tkwork/master/screenshots/Screenshot_20240830_123952.png?token=GHSAT0AAAAAACWWH5NKHDYCTYG5RIKLERUIZWR63GA)
