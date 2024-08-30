@@ -106,7 +106,7 @@ pub mod functions {
                 }
                 Err(_) => {
                     if ok.contains("In order to prevent") {
-                        println!("* Tasks complete");
+                        println!("* Comment tasks complete");
                         // process::exit(0);
                     } else {
                         println!("* Unknown error");
