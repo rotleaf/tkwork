@@ -2,6 +2,7 @@
 name = "tkwork"
 version = "0.1.0"
 edition = "2021"
+authors = ["Mbithi <mbithi@zillahtechnologies.co.ke>"]
 
 [dependencies]
 colored = "2.1.0"
