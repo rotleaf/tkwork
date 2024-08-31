@@ -108,8 +108,8 @@ pub mod functions {
                     if ok.contains("In order to prevent") {
                         println!("* Comment tasks complete");
                         // process::exit(0);
-                    } else {
-                        println!("* Unknown error");
+                    } else if ok.contains("The account has been disabled") {
+                        println!("* Account disabled");
                         process::exit(0);
                     }
                 }

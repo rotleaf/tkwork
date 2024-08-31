@@ -38,4 +38,6 @@ This script hasn't been tested for long so no one is responsible for you losing 
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/rotleaf/tkwork/master/screenshots/Screenshot_20240830_123952.png?token=GHSAT0AAAAAACWWH5NKHDYCTYG5RIKLERUIZWR63GA)
+![Likes](https://raw.githubusercontent.com/rotleaf/tkwork/master/screenshots/Screenshot_20240830_123952.png)
+
+![Comments](https://raw.githubusercontent.com/rotleaf/tkwork/master/screenshots/Screenshot_20240830_125215.png)
